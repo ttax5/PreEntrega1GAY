@@ -1,0 +1,5 @@
+# gitignore parcial
+
+*
+!.gitignore
+!SEMANA 2/
